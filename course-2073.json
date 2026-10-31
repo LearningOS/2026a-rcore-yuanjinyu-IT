@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "courseId": 2073,
+  "repository": "LearningOS/2026a-rcore-yuanjinyu-IT",
+  "user": "yuanjinyu-IT",
+  "totalScore": 500,
+  "chapters": {
+    "ch3": {
+      "points": "7/7",
+      "score": 100,
+      "commit": "62ec69f82c228ece1bd5172ebaf7e92cf9252bda"
+    }
+  },
+  "score": 100,
+  "upload": {
+    "status": "pending",
+    "runId": "41203176278",
+    "runAttempt": "1"
+  }
+}
